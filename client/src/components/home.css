@@ -1,0 +1,30 @@
+.home {
+    margin: 60px 0px 0px 0px;
+}
+
+.home-header {
+    float: left;
+    width: 550px;
+    margin: 100px 0px 0px 160px;
+}
+
+.main-header {
+    text-align: left;
+    color: #ffffff;
+    font-family: 'Fredoka one';
+    font-size: 80px;
+    margin: 0px 0px 0px 0px;
+}
+
+.sub-header {
+    text-align: left;
+    color: #ffffff;
+    font-family: 'Fredoka one';
+    font-size: 35px;
+    margin: 20px 0px 0px 0px;
+}
+
+.front-image {
+    justify-content: center;
+    margin: 0px 0px 0px 0px;
+}

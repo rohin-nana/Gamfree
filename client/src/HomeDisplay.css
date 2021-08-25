@@ -1,0 +1,14 @@
+* {
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.HomeDisplay {
+  background-image: url(./components/img/purpleBackground.png);
+  min-width: 100%;
+  min-height: 100%;
+  position: absolute;
+  background-size: cover;
+  background-position: center;
+}

@@ -1,0 +1,92 @@
+.contact-header {
+    float: left;
+    margin-left: 50px;
+    font-size: 30px;
+}
+
+.contact {
+    margin-top: 75px;
+    margin-bottom: 100px;
+}
+
+.contact-box {
+    border: 1px solid white;
+    color: white;
+    font-family: 'Fredoka one';
+    margin-right: auto;
+    margin-left: auto;
+    height: 700px;
+    width: 750px;
+}
+
+.email-box {
+    margin-top: 20px;
+}
+
+.email-box-text {
+    padding: 10px;
+    background: transparent;
+    border: 1px solid white;
+    margin-right: auto;
+    margin-left: auto;
+    height: 50px;
+    width: 650px;
+    color: white;
+    text-align: left;
+    font-family: 'Fredoka one';
+    font-size: 20px
+}
+
+.subject-box {
+    margin-top: 20px;
+}
+
+.subject-box-text {
+    padding: 10px;
+    background: transparent;
+    border: 1px solid white;
+    margin-right: auto;
+    margin-left: auto;
+    height: 50px;
+    width: 650px;
+    color: white;
+    text-align: left;
+    font-family: 'Fredoka one';
+    font-size: 20px
+}
+
+.message-box {
+    margin-top: 20px;
+}
+
+.message-box-text {
+    background: transparent;
+    border: 1px solid white;
+    padding: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    height: 275px;
+    width: 650px;
+    color: white;
+    text-align: justify;
+    vertical-align: text-top;
+    font-family: 'Fredoka one';
+}
+
+.send-button {
+    background: transparent;
+    border: 1px solid white;
+    margin-top: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    height: 60px;
+    width: 650px;
+}
+
+
+.send-button-text {
+    margin: 0;
+    padding: 0;
+    color: white;
+    font-size: 30px;
+}
